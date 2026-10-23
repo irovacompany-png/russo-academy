@@ -1,5 +1,4 @@
-# РУССО — Russian for Arabic speakers
-
+# РУССО — Russian for hospitality and daily life
 By IROVA / Islam Ramadan.
 
-Six introductory lessons, local progress, writing practice, browser speech synthesis, temporary microphone recording, and weekly review. Speech requires an installed Russian system voice. Recording is self-review only; no automatic pronunciation scoring or AI chat. Progress is local to each browser.
+6 foundation lessons, 8 hotel scenarios, 8 daily conversations, 48 contextual expressions, 32 questions. Original educational dialogues with device speech synthesis and self-review recording. Local progress and weekly review. No automatic pronunciation assessment or open-ended AI teacher. Hotel times and room numbers are fictional examples; confirm actual hotel policies.
